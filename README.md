@@ -2,7 +2,7 @@
 
 osx only, sorry  
 `brew upgrade gphoto2`  
-nikon only, set mode to RAW and small BASIC  
+nikon only, sorry set camera mode to RAW and small BASIC  
 `~/booth/binary/gphoto2 --auto-detect  
 ~/booth/binary/gphoto2 --set-config capturetarget=1`
 start server
