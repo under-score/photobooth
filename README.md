@@ -9,4 +9,4 @@ start server
 `sudo php -S 0.0.0.0:80 -t ~/photobooth/Server`
 copy everything to ~/booth/Server  
 
-TBC
+under construction, not for download
