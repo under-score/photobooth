@@ -1,4 +1,5 @@
 # photobooth
+under  construction do not download  
 
 osx only, sorry  
 `brew upgrade gphoto2`  
