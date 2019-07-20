@@ -1,8 +1,8 @@
 # photobooth
 
-osx only, sorry
+osx only, sorry, run  
 `brew upgrade gphoto2`  
-set camera mode to RAW and small BASIC and run from terminal
+set camera mode to RAW and small BASIC and run  
 `~/photobooth/binary/gphoto2 --auto-detect`  
 `~/photobooth/binary/gphoto2 --set-config capturetarget=1`  
 start webserver
