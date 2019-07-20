@@ -10,3 +10,7 @@ start server
 copy everything to ~/photobooth/Server
 point your browser to http://localhost
 move around with cursor keys, shoot with spacebar
+
+![screenshot](screenshot.jpg "overview. Click for fullscreen, starring, editing, deleting, ...")
+
+I suggest to link also to editing 
