@@ -9,7 +9,9 @@ start webserver
 `sudo php -S 0.0.0.0:80 -t ~/photobooth/Server`  
 copy this app to ~/photobooth  
 point your browser to http://localhost
-move around with cursor keys, shoot with spacebar, click pic iconfor fullscreen, starring, editing, deleting
+move around with cursor keys & shoot with spacebar  
+click picture icons for fullscreen, starring, deleting
 
-![screenshot](screenshot.jpg "overview. ...")
+![screenshot](screenshot.jpg "overview. ...")  
 
+i edit with https://viliusle.github.io/miniPaint which is an increbible piece of software
