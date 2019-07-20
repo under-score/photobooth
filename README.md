@@ -14,4 +14,4 @@ click picture icons for full screen, starring, deleting ...
 
 ![screenshot](screenshot.jpg "overview. ...")  
 
-i edit with https://viliusle.github.io/miniPaint which is an incredible piece of software
+i edit with https://viliusle.github.io/miniPaint 
