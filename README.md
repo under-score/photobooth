@@ -1,8 +1,10 @@
 # photobooth
 
-OSX only, sorry  
+osx only, sorry  
 `brew upgrade gphoto2`  
-Nikon only, sorry: set to RAW and small BASIC  
+nikon only, set mode to RAW and small BASIC  
 `~/booth/binary/gphoto2 --auto-detect  
 ~/booth/binary/gphoto2 --set-config capturetarget=1`
-
+start server
+`sudo php -S 0.0.0.0:80 -t ~/booth/Server`
+copy everything to ~/booth/Server  
