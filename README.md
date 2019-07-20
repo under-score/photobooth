@@ -10,8 +10,8 @@ start webserver
 copy this app to ~/photobooth  
 point your browser to http://localhost
 move around with cursor keys & shoot with spacebar  
-click picture icons for fullscreen, starring, deleting
+click picture icons for full screen, starring, deleting ...
 
 ![screenshot](screenshot.jpg "overview. ...")  
 
-i edit with https://viliusle.github.io/miniPaint which is an increbible piece of software
+i edit with https://viliusle.github.io/miniPaint which is an incredible piece of software
